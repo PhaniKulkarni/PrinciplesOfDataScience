@@ -1,0 +1,9 @@
+The scores of students whose parents have completed their master's are higher than others.
+
+The gender distribution in the dataset is even.
+
+Students who have completed the preparation course received higher scores than the other students.
+
+The scatter plot shows that Female students scored higher in maths than male students.
+
+Students from Group C have a higher proportion of lunch compared to other students.
