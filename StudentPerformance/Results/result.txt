@@ -1,9 +1,14 @@
+Student scores and Parental Level of Education Relation:
 The scores of students whose parents have completed their master's are higher than others.
 
+Distribution of Male and Female Students:
 The gender distribution in the dataset is even.
 
+Student Scores and Test Preparation Course Relation:
 Students who have completed the preparation course received higher scores than the other students.
 
+Gender vs. Math Scores:
 The scatter plot shows that Female students scored higher in maths than male students.
 
+Distribution of Lunch Type by Race/Ethnicity:
 Students from Group C have a higher proportion of lunch compared to other students.
