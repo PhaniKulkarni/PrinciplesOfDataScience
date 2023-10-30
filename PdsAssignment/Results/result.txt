@@ -1,0 +1,21 @@
+Found out the missing values from each column
+Unnamed: 0              0
+Name                    0
+Location                0
+Year                    0
+Kilometers_Driven       0
+Fuel_Type               0
+Transmission            0
+Owner_Type              0
+Mileage                 2
+Engine                 36
+Power                  36
+Seats                  38
+New_Price            5032
+Price                   0
+dtype: int64
+
+Replace the NA values of Mileage, Engine and Power with median
+Median is the best replacement technique because it preserves the central tendency and avoids outliers
+Replace the NA values of Seat with Mode. Number of seats is discrete in nature, although it is quantitative value so mode is used
+As there are many null values incase of Newprice, it is better to drop a column because imputing any values can result in outliers in the data and lead to wrong analysis
